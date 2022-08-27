@@ -1,0 +1,15 @@
+sudo apt update
+Apt install python3-pip
+sudo apt-get install libpq-dev python-dev
+sudo apt install python3-testresources
+
+Virtualenv myenv
+Source myenv/bin/activate
+
+
+python -m pip install --upgrade pip
+
+Pip install -r requirements.txt
+
+Cd 1st_2
+Python manage.py runserver

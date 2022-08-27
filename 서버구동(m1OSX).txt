@@ -4,8 +4,8 @@ Source activate
 Cd ..
 Cd ..
 
-(맥북 m1이라 한거 ) export LDFLAGS="-L/usr/local/opt/openssl/lib"  
-(맥북 m1이라 한거 ) export CPPFLAGS="-I/usr/local/opt/openssl/include"
+export LDFLAGS="-L/usr/local/opt/openssl/lib"  
+export CPPFLAGS="-I/usr/local/opt/openssl/include"
 
 requrirements.txt에서 
 psycopg2==2.9.3 로 변경
