@@ -14,4 +14,4 @@ PyJWT==2.0.0 로 변경
 
 Pip install -r requirements.txt
 
-Python manage.py rumserver
+Python manage.py runserver

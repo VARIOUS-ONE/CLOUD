@@ -13,3 +13,6 @@ Pip install -r requirements.txt
 
 Cd 1st_2
 Python manage.py runserver
+
+
+react-scripts": "^5.0.1",
