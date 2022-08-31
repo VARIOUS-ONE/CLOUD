@@ -10,8 +10,13 @@ export CPPFLAGS="-I/usr/local/opt/openssl/include"
 requrirements.txt에서 
 psycopg2==2.9.3 로 변경
 djangorestframework-simplejwt==4.5.0 로 변경
-PyJWT==2.0.0 로 변경 
+PyJWT==1.7.1로 변경 
 
+Yarn add react-paypal-version-button-v2
+
+Brew install postgresql
+Sudo pat-get install libpq-dev python-dev
 Pip install -r requirements.txt
 
 Python manage.py runserver
+
